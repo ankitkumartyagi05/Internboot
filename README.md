@@ -131,9 +131,16 @@ To explore historical sales data and understand:
   <img src="https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif" width="600"/>
 </p>
 
-To forecast sales by capturing **trend and seasonality** using regression-based ML models.
+The objective of this project is to **forecast future sales by explicitly modeling trend and seasonality from historical sales data using regression-based machine learning techniques**.
 
----
+This project focuses on:
+- converting time information into meaningful numerical features,
+- capturing long-term trends and repeating seasonal patterns,
+- training and evaluating regression models for forecasting accuracy,
+- and generating reliable, data-driven sales predictions.
+
+By combining data analytics with machine learning, this project demonstrates how historical patterns can be transformed into actionable business forecasts.
+
 
 ### 🛠 Work Performed
 
