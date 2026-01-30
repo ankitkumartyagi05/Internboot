@@ -106,7 +106,7 @@ To deploy a trained machine learning model as a web application.
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="450"/>
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="450"/>
 </p>
 
 - Python  
