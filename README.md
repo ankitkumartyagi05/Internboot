@@ -1,39 +1,49 @@
 # Internboot
 Data Analytics virtual Internship Projects
-# 🚀 Data Analytics & Machine Learning
+# 🚀 Data Analytics & Machine Learning Portfolio
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-Web%20App-red?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-EDA-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Regression-orange?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-Deployment-red?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
 <p align="center">
   <b>From Raw Data → Insights → Models → Deployment</b><br/>
-  A complete, industry-style data analytics journey
+  <i>A complete, industry-style Data Analytics & ML journey</i>
 </p>
-
----
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="720"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="750"/>
 </p>
 
 ---
 
-## 🌟 Overview
+## 🌟 About This Repository
 
-This repository contains **three end-to-end data analytics and machine learning projects** designed and built following **real-world industry workflows**.
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="650"/>
+</p>
 
-The focus is not just on writing code, but on:
-- understanding data deeply,
-- extracting business insights,
-- building reliable machine learning models,
-- and deploying them as usable applications.
+This repository contains **three complete, real-world Data Analytics and Machine Learning projects** built using **industry-approved workflows**.
 
-Each project builds on the previous one, forming a **complete analytics pipeline**.
+The focus is on:
+- understanding raw data,
+- extracting meaningful insights,
+- applying machine learning responsibly,
+- and deploying models as usable applications.
 
 ---
+
+## 🧭 Overall Project Flow
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="650"/>
+</p>
+
+
+
 Raw Dataset
 ↓
 Exploratory Data Analysis
@@ -45,42 +55,63 @@ Model Training & Evaluation
 Deployment as ML Application
 
 
+
 ---
 
 ## 📊 Project 1: Exploratory Sales Data Analysis (EDA)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="680"/>
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="700"/>
 </p>
 
 ### 🔍 Objective
-To explore and analyze historical sales data in order to understand:
-- overall sales trends,
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l41lGnxllmXu4kP5C/giphy.gif" width="600"/>
+</p>
+
+To explore historical sales data and understand:
+- sales trends,
 - seasonal patterns,
 - promotion impact,
-- and key business drivers.
+- store and product performance.
 
-This project focuses on **data understanding**, which is the foundation of all analytics and machine learning work.
+---
 
-### 🛠 Work Done
-- Loaded and cleaned large-scale sales data
-- Handled missing values using business logic
-- Converted date columns for time-series analysis
-- Analyzed:
-  - daily and monthly sales trends
-  - seasonality using resampling
-  - promotion vs non-promotion sales
-  - top-performing stores and product families
-- Applied rolling averages to smooth noise and reveal long-term trends
+### 🛠 Work Performed
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600"/>
+</p>
+
+- Loaded and cleaned large-scale sales data  
+- Handled missing values using business logic  
+- Converted date columns for time-series analysis  
+- Performed trend, seasonality, promotion, and category analysis  
+- Applied rolling averages for trend smoothing  
+
+---
 
 ### 📈 Key Insights
-- Sales show strong time-based trends and seasonality
-- Promotional activities positively affect average sales
-- A small subset of stores and product categories contribute most of the revenue
-- Proper data cleaning is essential before modeling
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYyDa8S9ghzNebm/giphy.gif" width="600"/>
+</p>
+
+- Sales follow strong time-based patterns  
+- Promotions significantly increase average sales  
+- Few stores and product families drive most revenue  
+- EDA is critical before any ML modeling  
+
+---
 
 ### 💡 Skills Demonstrated
-`Data Cleaning` • `EDA` • `Visualization` • `Business Insight Extraction`
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="550"/>
+</p>
+
+`Data Cleaning` • `EDA` • `Visualization` • `Business Insights`
 
 ---
 
@@ -91,31 +122,52 @@ This project focuses on **data understanding**, which is the foundation of all a
 ## ⏳ Project 2: Time Series Regression (Trend + Seasonality)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="680"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="700"/>
 </p>
 
 ### 🔍 Objective
-To predict sales using regression models by explicitly capturing **trend and seasonality** from time-based features.
 
-This project transitions from analytics to **machine learning thinking**.
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif" width="600"/>
+</p>
 
-### 🛠 Work Done
-- Engineered time-based features:
-  - year, month, day, weekday
-- Performed **time-aware train–test split** to avoid data leakage
-- Built and compared:
-  - Linear Regression (baseline)
-  - Polynomial Regression (non-linear trends)
-- Evaluated models using MAE and RMSE
-- Visualized actual vs predicted sales for performance comparison
+To forecast sales by capturing **trend and seasonality** using regression-based ML models.
+
+---
+
+### 🛠 Work Performed
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" width="600"/>
+</p>
+
+- Engineered time-based features (year, month, day, weekday)  
+- Used time-aware train–test split  
+- Built Linear Regression (baseline)  
+- Built Polynomial Regression (non-linear trends)  
+- Evaluated models using MAE & RMSE  
+
+---
 
 ### 📈 Key Insights
-- Polynomial regression captured seasonal and non-linear patterns better
-- Feature engineering significantly improved model performance
-- Correct validation strategy is critical in time-series forecasting
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="600"/>
+</p>
+
+- Polynomial regression captured seasonality better  
+- Feature engineering improved forecasting accuracy  
+- Correct validation prevents data leakage  
+
+---
 
 ### 💡 Skills Demonstrated
-`Feature Engineering` • `Regression Modeling` • `Time-Series Forecasting` • `Model Evaluation`
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3q2XB76CaWPggiNW/giphy.gif" width="550"/>
+</p>
+
+`Feature Engineering` • `Regression Models` • `Time-Series Forecasting`
 
 ---
 
@@ -126,70 +178,95 @@ This project transitions from analytics to **machine learning thinking**.
 ## 🤖 Project 3: Sales Forecasting ML Deployment App
 
 <p align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="680"/>
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="700"/>
 </p>
 
 ### 🔍 Objective
-To deploy a trained machine learning model as a **web application** that allows users to predict sales in real time.
 
-This project demonstrates **end-to-end ML deployment**, from training to production.
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="600"/>
+</p>
 
-### 🛠 Work Done
-- Trained a regression-based ML model on historical sales data
-- Saved the trained model and preprocessing pipeline
-- Built an interactive **Streamlit web application**
-- Designed user input for future dates and promotion values
-- Generated instant sales predictions through the deployed model
+To deploy a trained ML model as a **web application** for real-time sales prediction.
+
+---
+
+### 🛠 Work Performed
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="600"/>
+</p>
+
+- Trained regression-based ML model  
+- Saved model and preprocessing pipeline  
+- Built Streamlit web application  
+- Designed user input for future sales prediction  
+- Generated instant predictions  
+
+---
 
 ### 🔄 Application Workflow
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="600"/>
+</p>
+
 User Input → Feature Transformation → ML Model → Sales Prediction
 
 
-### 🚀 Outcome
-- Converted analytical work into a usable product
-- Demonstrated full ML lifecycle: training → saving → deployment
-- Enabled business-style decision support using ML
+---
 
 ### 💡 Skills Demonstrated
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="550"/>
+</p>
+
 `Model Deployment` • `Streamlit` • `ML Pipelines` • `End-to-End Systems`
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Technology Stack
 
-- **Programming:** Python  
-- **Data Handling:** Pandas, NumPy  
-- **Visualization:** Matplotlib, Seaborn  
-- **Machine Learning:** Scikit-learn  
-- **Deployment:** Streamlit  
-- **Environment:** Google Colab / Local  
+<p align="center">
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="600"/>
+</p>
+
+- Python  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Scikit-learn  
+- Streamlit  
 
 ---
 
 ## 🏁 Final Conclusion
 
-These projects together demonstrate a **complete, industry-aligned data analytics and machine learning workflow**:
+<p align="center">
+  <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" width="650"/>
+</p>
 
-- transforming raw data into meaningful insights,
-- applying machine learning responsibly,
-- validating results correctly,
-- and deploying models as real-world applications.
+These projects together demonstrate a **complete, industry-aligned Data Analytics & ML workflow**:
 
-> This portfolio reflects not just coding ability, but **analytical thinking, problem-solving, and production readiness**.
+- raw data → insights  
+- insights → models  
+- models → deployment  
 
----
-
-## 🎯 What This Portfolio Represents
-
-✔ Internship-ready analytics skills  
-✔ Strong ML fundamentals  
-✔ End-to-end project ownership  
-✔ Clear progression from beginner to advanced concepts  
+> This portfolio reflects **analytical thinking, technical execution, and production readiness**.
 
 ---
 
-✨ *Built with curiosity, discipline, and a focus on real-world impact.*
+## 🎯 What This Portfolio Shows
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="650"/>
+</p>
 
-## 🧭 Project Flow (Conceptual)
+✔ Internship-ready skills  
+✔ Strong analytics foundation  
+✔ Practical ML experience  
+✔ End-to-end ownership  
 
+---
+
+✨ *Built with logic, discipline, and real-world impact.*
