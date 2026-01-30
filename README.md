@@ -262,18 +262,3 @@ These projects together demonstrate a **complete, industry-aligned Data Analytic
 > This portfolio reflects **analytical thinking, technical execution, and production readiness**.
 
 ---
-
-## 🎯 What This Portfolio Shows
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="650"/>
-</p>
-
-✔ Internship-ready skills  
-✔ Strong analytics foundation  
-✔ Practical ML experience  
-✔ End-to-end ownership  
-
----
-
-✨ *Built with logic, discipline, and real-world impact.*
