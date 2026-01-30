@@ -12,11 +12,9 @@ Data Analytics virtual Internship Projects
 <p align="center">
   <b>From Data Analysis to Machine Learning Deployment</b>
 </p>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/l46CkATpdyLwLI7vi/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="500"/>
 </p>
-
 ---
 
 ## 📌 About This Repository
