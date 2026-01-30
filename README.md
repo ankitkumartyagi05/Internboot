@@ -93,11 +93,9 @@ To explore historical sales data and understand:
 ---
 
 ### 📈 Key Insights
-
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYyDa8S9ghzNebm/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" width="650"/>
 </p>
-
 - Sales follow strong time-based patterns  
 - Promotions significantly increase average sales  
 - Few stores and product families drive most revenue  
@@ -262,3 +260,6 @@ These projects together demonstrate a **complete, industry-aligned Data Analytic
 > This portfolio reflects **analytical thinking, technical execution, and production readiness**.
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYyDa8S9ghzNebm/giphy.gif" width="600"/>
+</p>
