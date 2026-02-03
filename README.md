@@ -12,9 +12,6 @@ Data Analytics virtual Internship Projects
 <p align="center">
   <b>From Data Analysis to Machine Learning Deployment</b>
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="500"/>
-</p>
 ---
 
 ## 📌 About This Repository
@@ -44,10 +41,6 @@ Dataset → Analysis → Modeling → Deployment
 
 📈 **Objective**  
 To understand sales data by identifying trends, seasonality, and promotion impact.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="450"/>
-</p>
 
 ### 🔧 What was done
 - Loaded and cleaned sales dataset  
@@ -104,10 +97,6 @@ To deploy a trained machine learning model as a web application.
 ---
 
 ## 🛠️ Tools & Technologies
-
-<p align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="450"/>
-</p>
 
 - Python  
 - Pandas, NumPy  
