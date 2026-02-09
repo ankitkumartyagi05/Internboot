@@ -1,6 +1,6 @@
 # Internboot
 Data Analytics virtual Internship Projects
-# 📊 Data Analytics & Machine Learning Projects
+# 📊 Data Science & Analytics  Projects
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python"/>
